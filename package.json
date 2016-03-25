@@ -1,0 +1,24 @@
+{
+  "name": "cox-class",
+  "version": "0.0.1",
+  "description": "COXCORE Class / Module Manager",
+  "language": "javascript",
+  "main": "/src/js/lib/cox.class.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coxcore/cox-class.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coxcore/cox-class/issues"
+  },
+  "homepage": "https://github.com/coxcore/cox-class#readme",
+  "author": "Park U-yeong",
+  "authorInfo": {
+    "codename": "cox.ascript",
+    "email": "ascript0@gmail.com"
+  },
+  "license": "MIT"
+}
