@@ -17,7 +17,7 @@
 
 
 #### Link
-- [**cox.class 도움말 보기**](https://github.com/coxcore/cox-class/wiki/cox.class.js)
+- [**cox.class 도움말 보기**](https://github.com/coxcore/class/wiki/cox.class.js)
 
 
 
@@ -30,7 +30,7 @@
 - `cox.module` : Module 반환 및 의존성 처리
 
 #### Link
-- [**cox.module 도움말 보기**](https://github.com/coxcore/cox-class/wiki/cox.module.js)
+- [**cox.module 도움말 보기**](https://github.com/coxcore/class/wiki/cox.module.js)
 
 
 
@@ -52,7 +52,7 @@ $ node build
 - `build` : Module을 병합한 파일을 생성한다.
 
 #### Link
-- [**cox.node.builder 도움말 보기**](https://github.com/coxcore/cox-class/wiki/cox.node.builder.js)
+- [**cox.node.builder 도움말 보기**](https://github.com/coxcore/class/wiki/cox.node.builder.js)
 
 
 
